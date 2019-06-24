@@ -1,0 +1,22 @@
+{
+    "name": "elieldepaula/Examples",
+    "description": "Esta biblioteca é somente para estudos e exemplos.",
+    "type": "library",
+    "require": {
+        "php": ">=7.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Eliel de Paula",
+            "email": "dev@elieldepaula.com.br",
+            "homepage": "http://elieldepaula.com.br"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "elieldepaula\\Examples\\": "src"
+        }
+    }
+}
