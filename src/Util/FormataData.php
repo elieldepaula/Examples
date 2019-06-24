@@ -1,5 +1,5 @@
 <?php
-namespace Examples\Util;
+namespace elieldepaula\Examples\Util;
 
 class FormataData
 {
